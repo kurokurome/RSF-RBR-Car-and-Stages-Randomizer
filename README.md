@@ -9,5 +9,9 @@ The base idea from [CRSimRacing](https://www.youtube.com/watch?v=Jd_v_1_8iM0 "Ri
 
 Feel free to use and modify it as your learning project
 
+TODO: 
+- adding choices between car classes
+- adding randomizer for stages condition (dry/damp/wet)
+
 # Preview
 ![Preview Image](src/preview.PNG "Preview Image")
